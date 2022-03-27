@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Scriviamo per ordinare 304 magliette AzIM taglia L
+Indirizzo di consegna: [45.888022,11.428231]
+Prezzo di acquisto 8.12€
+Cordialmente,
+Enrico Sosta Giocattoli

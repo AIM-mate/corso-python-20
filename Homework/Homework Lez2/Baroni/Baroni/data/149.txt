@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo un ordine di 7 magliette AzIM taglia XXL
+Coordinate di consegna [45.845516,7.56794]
+Il prezzo idealmente sarebbe 15.96€
+Distinti Saluti,
+Angelica Zacchei Tentazioni

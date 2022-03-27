@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo 86 magliette AzIM taglia XL
+L'indirizzo di consegna è il seguente [45.652833,9.288692]
+La singola unità verrà acquistata a 16.45€
+Distinti Saluti,
+Filippo Moneta INC.

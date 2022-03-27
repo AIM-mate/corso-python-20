@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo 353 magliette AzIM taglia S
+Indirizzo di consegna: [45.442417,11.506261]
+Prezzo di acquisto 19.91€
+Distinti Saluti,
+Filippo Zacchei SRL

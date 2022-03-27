@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo 259 magliette AzIM taglia XXL
+Indirizzo di consegna: [44.68621,10.290011]
+Chiediamo un prezzo per capo di 6.88€
+Cordiali Saluti,
+Filippo Carrara Franchising

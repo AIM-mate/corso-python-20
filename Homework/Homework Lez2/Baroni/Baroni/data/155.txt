@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo un ordine di 270 magliette AzIM taglia S
+La consegna al seguente indirizzo [45.326567,7.738032]
+Il prezzo idealmente sarebbe 11.18€
+Grazie, cordialmente,
+Carlo Augusto Fedeli INC.

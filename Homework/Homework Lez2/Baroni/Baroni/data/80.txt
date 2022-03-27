@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Necessitiamo 222 magliette AzIM taglia M
+Consegna presso [45.339915,6.812426]
+Chiediamo un prezzo per capo di 19.05€
+A presto,
+Filippo Iacovelli Strumenti Musicali

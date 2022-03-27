@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Chiediamo 351 magliette AzIM taglia M
+Indirizzo di consegna: [46.393007,10.853974]
+Prezzo di acquisto 8.46€
+Cordiali Saluti,
+Manuel Bressan Grissini
