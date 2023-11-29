@@ -1,0 +1,1 @@
+L’idea è quella di implementare una interfaccia programma-utente che ci permetta di muovere, usando la tastiera, un oggetto su una scacchiera. Questo esercizio coinvolge un utilizzo basilare delle strutture dati viste nella prima lezione ed introduce una piccola sezione di gestione degli errori e degli input esterni in Python.
