@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Scriviamo per ottenere un ordine di 230 magliette AzIM taglia XXL
+La consegna al seguente indirizzo [45.190932,10.15473]
+Prezzo di acquisto 16.29€
+A presto,
+Alessandro Genalti Latte

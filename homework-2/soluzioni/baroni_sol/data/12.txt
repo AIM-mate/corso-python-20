@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo 290 magliette AzIM taglia M
+Il nostro indirizzo è [45.288814,7.365348]
+Prezzo di acquisto 16.02€
+Distinti Saluti,
+MC Sosta SRL

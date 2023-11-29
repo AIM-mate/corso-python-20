@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo un ordine di 5 magliette AzIM taglia S
+Coordinate di consegna [45.330281,11.833231]
+Chiediamo un prezzo per capo di 13.9€
+Attendendo vostro riscontro,
+Giulia Moneta Frumento

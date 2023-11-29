@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Scriviamo per ottenere un ordine di 6 magliette AzIM taglia XL
+Consegna presso [44.917987,8.393744]
+La singola unità verrà acquistata a 15.35€
+Grazie, cordialmente,
+Giulia Zacchei Trasporti

@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Scriviamo per ordinare 14 magliette AzIM taglia M
+Il nostro indirizzo è [45.597936,6.672514]
+Chiediamo un prezzo per capo di 15.77€
+Distinti Saluti,
+Davide Sosta Mascherine

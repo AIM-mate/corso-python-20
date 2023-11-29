@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Scriviamo per ottenere un ordine di 477 magliette AzIM taglia S
+Indirizzo di consegna: [45.405947,8.556387]
+La singola unità verrà acquistata a 7.07€
+A presto,
+Alessandro Baroni Frumento

@@ -1,0 +1,6 @@
+Spett.le AzIM,
+Richiediamo 137 magliette AzIM taglia S
+Coordinate di consegna [45.603979,9.332943]
+Chiediamo un prezzo per capo di 15.36€
+Distinti Saluti,
+Davide Baroni IB
