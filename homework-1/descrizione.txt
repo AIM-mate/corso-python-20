@@ -1,0 +1,6 @@
+- Bacchiocchi: Cifrare un messaggio sfruttando la dinamica caotica della mappa logistica
+- Baroni: Imparare a gestire dati finanziari in maniera pythoniana
+- Fedeli: Generazione di numeri pseudo-casuali, simulazione di una passeggiata aleatoria
+- Genalti: Implementare una interfaccia per una scacchiera
+- Vitellio: Successione di Fibonacci
+- Zacchei: Algoritmi di Sorting (ordinamento di numeri)

@@ -1,0 +1,28 @@
+% Se pensate che lo sbirro abbia scritto un documento LaTeX per la consegna vi sbagliate di brutto, l'ho scritto io perché pushare un docx in repository è quanto di più orribile si possa fare -- Teo Bucci
+
+\documentclass[a4paper]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{eurosym}
+
+\title{Corso Python: Homework 2}
+\author{Jean Paul Guglielmo Baroni}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Magliette AzIM: ordini, prezzi e consegne}
+
+L'\textbf{Azienda degli Ingegneri Matematici} ha bisogno del tuo aiuto: uno stagista chiamato F.B. ha eliminato il database degli ordini delle stupende \textbf{magliette ufficiali AzIM}! Tutto quello che rimane sono 420 frammenti di email con le richieste dei clienti, spetta a te recuperarle e determinare che ordini accettare!
+
+Nella cartella \verb|data| trovi tutti i file di testo con i frammenti di email, sono tutti diversi! Contengono la \textbf{taglia} delle magliette, la \textbf{quantità} di magliette ordinate, la \textbf{posizione} in coordinate GCS della consegna, il \textbf{nome} del cliente e il \textbf{prezzo} a cui vorrebbe acquistare il singolo capo
+
+\begin{enumerate}
+    \item (1pt) Registra gli ordini in una \textbf{lista di oggetti} \verb|Order|
+    \item (1pt) Ogni cliente ha richiesto un prezzo diverso, ma il prezzo di vendita deve essere unico. Considerando 6\euro\ come costo di produzione di una maglietta, determina il \textbf{prezzo di vendita} a cui si otterrebbe il maggior profitto totale (se il prezzo richiesto dal cliente è strettamente inferiore al prezzo di vendita, il cliente non acquisterà)
+    \item (1pt) Considera i \textbf{costi di consegna}: viene applicato un costo di 0.10€/km a capo per per ogni ordine sotto le 100 unità, mentre di 0.05€/km per ogni ordine di almeno 100 unità. Trova il nuovo prezzo di vendita che porti al maggior profitto totale e componi la lista degli ordini da eseguire, riordinata dall'ordine che porterebbe al profitto maggiore fino a quella che porterebbe al profitto minore.
+    \item (Facoltativo per Lode) Considera la curvatura terrestre per il calcolo della distanza per le consegne (riscrivi la funzione \verb|Distance|)
+\end{enumerate}
+
+\end{document}
