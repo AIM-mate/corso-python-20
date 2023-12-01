@@ -11,7 +11,7 @@ Il materiale del corso è disponibile nelle cartelle `lezione-X` di questo repos
 
 ## Homework
 
-Gli homework sono disponibili nella cartella `homework` di questo repository.
+Gli homework sono disponibili nelle cartelle `homework-X` di questo repository.
 
 ## Docenti
 
